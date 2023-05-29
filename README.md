@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KFU4GJ1vNlzj5kIL9wq2gNCeC2tEP6My/view?usp=drivesdk](https://drive.google.com/file/d/1KFU4GJ1vNlzj5kIL9wq2gNCeC2tEP6My/view?usp=drivesdk)
 
-- ⚡ Fun fact **passionate about web development**
+- ⚡ Fun fact **I am passionate about web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
