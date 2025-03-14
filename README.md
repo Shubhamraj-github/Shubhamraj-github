@@ -4,15 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamraj-github&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamraj-github" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Data Structure and Algorithm, Big Data using Hadoop.**
+- 🌱 I’m currently learning **MERN Stack, Data Structure and Algorithm, AWS.**
 
 - 👨‍💻 All of my projects are available at [https://shubhamraj-github.github.io/shubhamsportfolio](https://shubhamraj-github.github.io/shubhamsportfolio)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 Get in touch with me via email at **srrajshubham98841@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KFU4GJ1vNlzj5kIL9wq2gNCeC2tEP6My/view?usp=drivesdk](https://drive.google.com/file/d/1KFU4GJ1vNlzj5kIL9wq2gNCeC2tEP6My/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am passionate about web development**
 
