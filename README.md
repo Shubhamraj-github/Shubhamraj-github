@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Data Structure and Algorithm, AWS.**
 
-- 👨‍💻 All of my projects are available at [https://shubhamraj-github.github.io/shubhamsportfolio](https://shubhamraj-github.github.io/shubhamsportfolio)
+- 👨‍💻 All of my projects are available at [https://shubhamrajportfoliose.netlify.app/](https://shubhamrajportfoliose.netlify.app/)
 
 - 💬 Ask me about **MERN Stack**
 
